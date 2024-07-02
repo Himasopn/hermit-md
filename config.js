@@ -34,7 +34,7 @@ module.exports = {
 
 	VERSION: 'v4.4.1', 
 
-    SESSION_ID: process.env.SESSION_ID || '06_29_H_E_R_M_I_T_Q1_PD8C',
+    SESSION_ID: process.env.SESSION_ID || '07_02_H_E_R_M_I_T_1V_FDZ3',
 
     MODE: (process.env.MODE || 'private').toLowerCase(),
 
@@ -108,7 +108,7 @@ module.exports = {
 
        BRAIN_ID: process.env.BRAIN_ID || 'bid=168613&key=EfbnX54Iy9PFIFp3',
 
-       SUDO: process.env.SUDO || '972528277700,0',
+       SUDO: process.env.SUDO || '917002015750',
 
        DEBUG: DEBUG
 
